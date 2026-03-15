@@ -4,7 +4,7 @@ A quick utility app for **Star Citizen** that helps miners identify potential or
 
 ## License
 
-© 2026 itss_illy. All rights reserved.
+© 2026 itssilly4u (itss_illy). All rights reserved.
 
 This source code is publicly visible for transparency and learning purposes.
 You may **not copy, modify, redistribute, or reuse this code** in other projects without explicit permission from the author.
