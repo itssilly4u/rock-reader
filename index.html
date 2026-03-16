@@ -24,7 +24,7 @@
             text-align: center;
             width: 90%;
             max-width: 500px;
-            position: relative; /* Added for footer positioning */
+            position: relative; 
         }
 
         h1 { color: #f2cc0c; font-size: 1.5rem; margin-bottom: 20px; text-transform: uppercase;}
@@ -99,6 +99,17 @@
             width: auto;
             opacity: 0.6;
         }
+
+        .watermark a {
+            color: #f2cc0c;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .watermark a:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -118,6 +129,8 @@
     <footer class="watermark">
         <img src="https://support.robertsspaceindustries.com/hc/article_attachments/360021770294" alt="RSI Logo">
         <span>Made by itss_illy</span>
+        <span>|</span>
+        <a href="https://github.com/itssilly4u/rock-reader/" target="_blank" rel="noopener noreferrer">GitHub</a>
     </footer>
 </div>
 
