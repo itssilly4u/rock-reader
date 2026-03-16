@@ -2,6 +2,8 @@
 
 A quick utility app for **Star Citizen** that helps miners identify potential ore clusters based on remote mining signatures.
 
+You can visit the site at https://itssilly4u.github.io/rock-reader/
+
 ## License
 
 © 2026 itssilly4u (itss_illy). All rights reserved.
